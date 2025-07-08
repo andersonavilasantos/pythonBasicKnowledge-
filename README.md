@@ -157,7 +157,9 @@ This course includes several notebook-based sessions:
 * [06](Intro-to-Python/06.ipynb) Functions
 * [07](Intro-to-Python/07.ipynb) Scripting
 * [08](Intro-to-Python/08.ipynb) Data analysis with Pandas
-* [8.1](Intro-to-Python/08.1.ipynb) Data Types and Formats
+* * [8.1](Intro-to-Python/08.1.ipynb) Data Types and Formats
+* * [8.2](Intro-to-Python/08.2.ipynb) Data Workflows and Automation
+* * [8.3](Intro-to-Python/08.3.ipynb) Making Plots 
 * [09](Intro-to-Python/09.ipynb) Reproducible research
 
 Quick syntax reference: [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html).
